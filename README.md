@@ -2,6 +2,7 @@
 
 - Goal: Create an HTML table layout identical to the one in the provided image.
 - Image Reference: Use the following image as a reference for your table structure and styling
+![](./img.png)
 - Steps:
 HTML Structure:
 1. Create a basic HTML structure.
