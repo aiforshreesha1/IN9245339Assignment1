@@ -5,7 +5,7 @@
 - Steps:
 HTML Structure:
 1. Create a basic HTML structure.
-2. Use the <table>, <thead>, <tbody>, <tr>, <th>, and <td> elements to replicate the table structure.
+2. Use the ```<table>, <thead>, <tbody>, <tr>, <th>, and <td>``` elements to replicate the table structure.
 3. Ensure to include appropriate headers and data cells to match the provided image.
 
 CSS Styling:
